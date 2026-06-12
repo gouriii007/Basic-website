@@ -1,0 +1,11 @@
+node_modules/
+Backend/node_modules/
+Frontend/frontend/node_modules/
+build/
+Backend/dist/
+Frontend/frontend/build/
+coverage/
+.env
+.DS_Store
+npm-debug.log*
+*.log
