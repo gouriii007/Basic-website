@@ -30,28 +30,17 @@ A Student Dashboard web application developed as part of my ICT Academy MERN Sta
 - MongoDB Atlas
 - Mongoose
 
-## 📂 Project Structure
-Basic-website/
-│
-├── frontend/
-│ ├── src/
-│ ├── public/
-│ └── package.json
-│
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── server.js
-│ └── package.json
-│
-└── README.md
 
 🌐 Application URLs
+
 Frontend: http://localhost:3000
+
 Backend API: http://localhost:3001
 
 📚 Learning Outcomes
+
 Through this project, I gained experience in:
+
 React Components and Hooks
 State Management
 RESTful API Development
