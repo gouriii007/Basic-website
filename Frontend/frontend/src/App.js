@@ -10,7 +10,7 @@ const emptyForm = {
   splace: "",
 };
 
-const apiPath = "http://localhost:5001/students";
+const apiPath = "/students";
 
 function App() {
   const [students, setStudents] = useState([]);
